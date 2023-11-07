@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\bin\Debug\net6.0\Last_work.exe
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\bin\Debug\net6.0\Last_work.deps.json
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\bin\Debug\net6.0\Last_work.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\bin\Debug\net6.0\Last_work.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\bin\Debug\net6.0\Last_work.pdb
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\refint\Last_work.dll
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.pdb
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\Last_work.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение Geekbreins\Final_work\Last_work\obj\Debug\net6.0\ref\Last_work.dll
