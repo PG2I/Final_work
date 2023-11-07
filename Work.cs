@@ -10,7 +10,7 @@ class Program
     static void Mass()
     {
         Console.Write("Введите количество строк в массиве: ");
-        int n = int.Parse(Console.ReadLine());
+        int n = int.Parse(Console.ReadLine()!);
 
         string[] words = new string[n];
 
